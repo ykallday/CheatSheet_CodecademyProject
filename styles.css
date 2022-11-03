@@ -1,0 +1,57 @@
+*{
+    font-family: Monospace;
+  }
+  th{
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    padding: 10px auto;
+    margin-bottom:20px;
+  }
+  
+  .name{
+    font-weight:500;
+    color:red;
+    background-color: lightblue;
+    font-size: 120%;
+  }
+  .name:hover{
+    color:lightblue;
+    background-color:red;
+  }
+  table{
+    background-color: white;
+    width:400px;
+    margin:0px auto;
+    border-collapse: collapse;
+    border: 2px solid black;
+    overflow: scroll;
+  }
+  
+  td{
+    padding: 10px;
+    text-align:center;
+    border:2px solid black;
+    
+  }
+  
+  h1{
+    text-align:center;
+  }
+  
+  h1 a{
+    text-decoration: none;
+  }
+  
+  a:hover{
+    color:white;
+    background-color:red;
+  }
+  
+  .diagram{
+    width:400px;
+    height:auto;
+    margin:10px auto;
+    display: block;
+  
+  }
